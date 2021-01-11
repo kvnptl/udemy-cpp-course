@@ -1,5 +1,11 @@
 # Udemy Cpp Course
-Udemy course : Beginning C++ Programming - From Beginner to Beyond. Contains programming exercises 
+
+# Name: Beginning C++ Programming - From Beginner to Beyond
+
+<p align="center">
+  <img width="460" height="300" src="https://archive.org/download/freetutorialsus.comudemybeginningcprogrammingfrombeginnertobeyond/freetutorialsus.comudemybeginningcprogrammingfrombeginnertobeyond.thumbs/1.%20Introduction/1.%20About%20the%20Course_000212.jpg">
+</p>
+
 
 [Course Link](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
 
