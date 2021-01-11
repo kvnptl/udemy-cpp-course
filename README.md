@@ -3,7 +3,7 @@
 # Name: Beginning C++ Programming - From Beginner to Beyond
 
 <p align="center">
-  <img width="460" height="300" src="https://archive.org/download/freetutorialsus.comudemybeginningcprogrammingfrombeginnertobeyond/freetutorialsus.comudemybeginningcprogrammingfrombeginnertobeyond.thumbs/1.%20Introduction/1.%20About%20the%20Course_000212.jpg">
+  <img width="460" height="300" src="https://github.com/kvnptl/udemy-cpp-course/blob/main/course.jpg">
 </p>
 
 
