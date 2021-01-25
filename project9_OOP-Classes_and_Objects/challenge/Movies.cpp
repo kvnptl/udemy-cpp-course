@@ -81,6 +81,9 @@ void Movies::display() const {
    if (check != 1){
        std::cout << "No movies in the list" << std::endl;
    }
+   std::cout << std::endl;
+   std::cout << "===================================" << std::endl;
+   std::cout << std::endl;
 
 
 }
