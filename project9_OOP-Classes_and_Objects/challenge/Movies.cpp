@@ -74,7 +74,7 @@ bool Movies::increment_watched(std::string name) {
 void Movies::display() const {
    // You implement this method
    int check {0};
-   for (auto i:movies){
+   for (const auto &i:movies){
        std::cout << i.get_name() << ", " << i.get_rating() << ", " << i.get_watched() << std::endl;
        check =1;
    }
